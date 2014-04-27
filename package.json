@@ -1,9 +1,9 @@
 {
-	"name":"web-irc",
-	"version":"0.0.1",
-	"dependencies": {
-		"socket.io":"0.9.16",
-		"express":"3.2.6",
+  "name":"web-irc",
+  "version":"0.0.1",
+  "dependencies": {
+    "socket.io":"0.9.16",
+    "express":"3.2.6",
     "irc":"0.3.6"
-	}
+  }
 }
